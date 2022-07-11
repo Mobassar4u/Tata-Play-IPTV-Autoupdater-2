@@ -14,7 +14,7 @@
 ## How to use?
 * Copy the below script and paste it in the terminal:
 ```bash
- curl -s 'https://raw.githubusercontent.com/Mobassar4u/Tata-Play-IPTV-Autoupdater-1/main/curl.sh' > curl.sh; chmod 755 curl.sh; ./curl.sh;
+ curl -s 'https://raw.githubusercontent.com/Mobassar4u/Tata-Play-IPTV-Autoupdater-2/main/curl.sh' > curl.sh; chmod 755 curl.sh; ./curl.sh;
 ```
 * Please wait until the setup is complete.
 * Now, Enter the required details asked there.
